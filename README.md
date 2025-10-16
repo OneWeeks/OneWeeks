@@ -32,7 +32,7 @@ I love small but meaningful projects that balance **aesthetic** and **functional
 
 | 💻 Languages | ⚙️ Frameworks | 🎨 Design & Tools |
 |---------------|----------------|-------------------|
-| JavaScript, TypeScript, C++ | Node.js, Svelte, Express | Figma, VS Code, After Effects, Davinci |
+| JavaScript, TypeScript, HTML, CSS | Node.js, Svelte, Express | Figma, VS Code, After Effects, Davinci |
 
 </div>
 
