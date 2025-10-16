@@ -20,7 +20,7 @@
 Hi, I’m **OneWeeks_** — a developer who enjoys exploring tech and design from different perspectives.  
 I love small but meaningful projects that balance **aesthetic** and **functionality**.
 
-- 🧠 Currently diving into **frontend development** and **Discord automation**
+- 🧠 Currently diving into **frontend development** and **UI / UX Designer**
 - ✨ Fascinated by **minimal interfaces** and clean system logic
 - 🪴 Always learning something new — because one week is never enough
 
@@ -32,7 +32,7 @@ I love small but meaningful projects that balance **aesthetic** and **functional
 
 | 💻 Languages | ⚙️ Frameworks | 🎨 Design & Tools |
 |---------------|----------------|-------------------|
-| JavaScript, TypeScript, C++ | Node.js, Svelte, Express | Figma, VS Code, After Effects |
+| JavaScript, TypeScript, C++ | Node.js, Svelte, Express | Figma, VS Code, After Effects, Davinci |
 
 </div>
 
